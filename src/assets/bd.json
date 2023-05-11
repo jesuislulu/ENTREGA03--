@@ -1,0 +1,132 @@
+{
+  "alumnos": [
+    {
+      "nombre": "Roma",
+      "apellido": "Martinelli",
+      "email": "mail@mail.com",
+      "dni": 123644,
+      "telefono": "12313131",
+      "cursos": [
+        "Javascript"
+      ],
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nombre": "María",
+      "apellido": "Callas",
+      "dni": 12765634,
+      "telefono": 15678534,
+      "email": "mail@mail.com"
+    },
+    {
+      "id": 4,
+      "nombre": "Carlos",
+      "apellido": "Quinto",
+      "dni": 12890834,
+      "telefono": 157897,
+      "email": "mail@mail.com"
+    },
+    {
+      "id": 5,
+      "nombre": "Sandro",
+      "apellido": "Boticelli",
+      "dni": 85235783,
+      "telefono": 15789645,
+      "email": "mail@mail.com"
+    },
+    {
+      "id": 6,
+      "nombre": "Daenerys",
+      "apellido": "Stormborn",
+      "dni": 16786234,
+      "telefono": 157896453,
+      "email": "mail@mail.com"
+    },
+    {
+      "id": 7,
+      "nombre": "Miguel",
+      "apellido": "Angelo",
+      "dni": 74542416,
+      "telefono": 15789456,
+      "email": "mail@mail.com"
+    },
+    {
+      "id": 9,
+      "nombre": "Rosa",
+      "apellido": "Cabral",
+      "dni": 97423421,
+      "telefono": 15556987,
+      "email": "mail@mail.com"
+    },
+    {
+      "nombre": "asda",
+      "apellido": "asda",
+      "email": "mail@mail.com",
+      "dni": "123123131",
+      "telefono": "123123131",
+      "cursos": [
+        "Angular"
+      ],
+      "id": 17
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "React",
+      "duracion": 6,
+      "docente": "Silvia",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Angular",
+      "duracion": 9,
+      "docente": "Marilin"
+    },
+    {
+      "id": 3,
+      "nombre": "Illustrator",
+      "duracion": 8,
+      "docente": "Pedro"
+    },
+    {
+      "id": 4,
+      "nombre": "Curso 4",
+      "duracion": 10,
+      "docente": "pepito4"
+    },
+    {
+      "id": 9,
+      "nombre": "Curso Nueve",
+      "duracion": 11,
+      "docente": "Lala"
+    }
+  ],
+  "docentes": [
+    {
+      "id": 1,
+      "nombre": "Claudio",
+      "apellido": "Ferro",
+      "curso": [
+        "Angular"
+      ]
+    },
+    {
+      "nombre": "Pablo",
+      "apellido": "Pereyra",
+      "curso": [
+        "Angular"
+      ],
+      "id": 3
+    },
+    {
+      "nombre": "mario",
+      "apellido": "bros",
+      "curso": [
+        "Angular"
+      ],
+      "id": 4
+    }
+  ]
+}
